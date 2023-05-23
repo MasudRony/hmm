@@ -1,0 +1,49 @@
+h1{
+    color:  rgb(218, 175, 119);
+}
+p{
+    color: rgb(253, 6, 6);
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#A{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkorange;
+}
+#murgi{
+    color: black;
+    background-color: wheat;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fr{
+    color: blue;
+    background-color: black;
+    font-style: italic;
+}
+#hmm{
+    color: black;
+    font-weight: 50%;
+}
+.mm{
+    background-color: saddlebrown;
+}
+.fr{
+    
+    border: 5px dashed red;
+    border-radius: 35px;
+    margin: 40px 390px 40px 30px;
+    padding: 35px;
+}
+.kk{
+    border: 2.5px solid red;
+   border-radius: 20px;
+   margin: 10px;
+   width: 30%;
+   float: left;
+
+}
